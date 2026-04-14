@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: [https://abarodi.github.io/Webfast/sitemap.xml](https://abarodi.github.io/Webfast/sitemap.xml)
